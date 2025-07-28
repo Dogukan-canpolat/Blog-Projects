@@ -1,0 +1,36 @@
+.post-detail-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.post-detail-container h2 {
+  color: #4f46e5;
+}
+
+.author-line {
+  font-style: italic;
+  color: #6b7280;
+  margin-bottom: 1rem;
+}
+
+hr {
+  margin: 2rem 0;
+}
+
+.comment-box {
+  background-color: #f9fafb;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}
+
+.comment-author {
+  font-size: 14px;
+  color: #6b7280;
+  margin-top: 0.5rem;
+}

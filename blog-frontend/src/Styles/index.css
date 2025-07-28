@@ -1,0 +1,21 @@
+body.dark {
+  background-color: #111827;
+  color: #f3f4f6;
+}
+
+body.dark a,
+body.dark .btn {
+  color: #f3f4f6;
+  background-color: #1f2937;
+}
+
+body.dark .post-card,
+body.dark .comment-box,
+body.dark .new-post-container,
+body.dark .post-detail-container,
+body.dark .register-container,
+body.dark .login-container {
+  background-color: #1f2937;
+  color: #f3f4f6;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+}
